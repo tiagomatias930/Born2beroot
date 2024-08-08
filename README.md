@@ -90,4 +90,4 @@ O projeto envolve a configuração de uma máquina virtual seguindo as diretrize
    - Use comandos como `ufw status`, `systemctl status ssh`, e `nginx -t` para verificar se os serviços estão configurados corretamente.
 ## Para ter informacoes mais detalhadas viste:
   
-    (https://github.com/pasqualerossi/Born2BeRoot-Guide)
+    https://github.com/pasqualerossi/Born2BeRoot-Guide
